@@ -1,0 +1,85 @@
+.icon {
+    display: inline-flex;
+    width: 24px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+.icon-sm {
+    width: 12px;
+    height: 12px;
+}
+
+.icon-home {
+    background-image: url('../icons/home.svg');
+}
+
+.icon-bell {
+    background-image: url('../icons/bell.svg');
+}
+
+.icon-create {
+    background-image: url('../icons/create.svg');
+}
+
+.icon-down-arrow {
+    background-image: url('../icons/down_arrow.svg');
+}
+
+.icon-explore {
+    background-image: url('../icons/explore.svg');
+}
+
+.icon-menu {
+    background-image: url('../icons/hambarger.svg');
+}
+
+.icon-history {
+    background-image: url('../icons/history.svg');
+}
+
+.icon-library {
+    background-image: url('../icons/library.svg');
+}
+
+.icon-liked {
+    background-image: url('../icons/liked.svg');
+}
+
+.icon-more {
+    background-image: url('../icons/more.svg');
+}
+
+.icon-right-arrow {
+    background-image: url('../icons/right_arrow.svg');
+}
+
+.icon-search {
+    background-image: url('../icons/search.svg');
+}
+
+.icon-shorts {
+    background-image: url('../icons/shorts.svg');
+}
+
+.icon-subscription {
+    background-image: url('../icons/subscription.svg');
+}
+
+.icon-verified {
+    background-image: url('../icons/verified.svg');
+}
+
+.icon-voice-search {
+    background-image: url('../icons/voice-search.svg');
+}
+
+.icon-watch {
+    background-image: url('../icons/watch_later.svg');
+}
+
+.icon-your-video {
+    background-image: url('../icons/your_video.svg');
+}

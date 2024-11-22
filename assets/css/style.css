@@ -1,0 +1,8 @@
+body {
+    background-color: var(--youtubeBlack18);
+    color: #fff;
+}
+
+html, body {
+    height: 100%;
+}
